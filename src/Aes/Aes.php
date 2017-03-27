@@ -2,7 +2,7 @@
 namespace Aes;
 /**
  * AES256加解密类
- *
+ * v1.2
  */
 class Aes{
     //公钥
