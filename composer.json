@@ -1,0 +1,8 @@
+{
+    "name": "stromguo/aes",
+    "description": "aes",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
